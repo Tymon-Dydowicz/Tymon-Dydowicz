@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there, ... 👋
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tymon-Dydowicz&theme=dark&background=000000)](https://git.io/streak-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tymon-Dydowicz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+#### Here is something nice for you too look at:
+After reading my description you should already know what that is 😉
+![Julia set fractal](https://c4.wallpaperflare.com/wallpaper/2/765/197/abstract-fractal-julia-set-simple-wallpaper-thumb.jpg)
+
 
 <!--
 **Tymon-Dydowicz/Tymon-Dydowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
